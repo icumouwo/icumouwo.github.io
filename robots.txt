@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://icumouwo.github.io/Crg/sitemap_index.txt
+Sitemap: https://icumouwo.github.io/EDy/sitemap_index.txt
+Sitemap: https://icumouwo.github.io/LfM/sitemap_index.txt
+Sitemap: https://icumouwo.github.io/YxF/sitemap_index.txt
